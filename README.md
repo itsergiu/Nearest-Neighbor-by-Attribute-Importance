@@ -3,4 +3,4 @@ K-nearest neighbors algorithm with attribute importance.
 
 The goal is to calculate nearest neighbor with decreasing importance of attribute from left to right. First attribute is the most important and last is the least important. To achieve this the I have developed below halving interval algorithm.
 
-I want to know what solutions provide sklearn library and tensorflow for finding neearest neighbor with attribute importance.
+I want to know what solutions provide python libraries or tensorflow for finding neearest neighbor with attribute importance.
